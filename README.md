@@ -2,7 +2,7 @@
 
 
 
-## endpoint
+## endpoint API
 ```
 /api/quiz/questions ==> get all questions
 ----------------------
