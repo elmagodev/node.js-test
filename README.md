@@ -50,7 +50,7 @@
 ```
 npm install
 ```
-## Create .env
+## Create .env in the ROOT main directory
 ```
 DATABASE_URL=mongodb+srv://.....
 PORT=3333
